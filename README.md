@@ -27,9 +27,6 @@ https://www.figma.com/design/2b1znfs8AWpOvBXH7TGvpj/SA-project?node-id=0-1&t=bkf
 
 <p align="center">
   <img src="SA Project img/Menu.png" align="Left" width=400"/>
-</p>
-
-<p>
   <img src="SA Project img/Hospital.png" align="Left" width=400"/>
 </p>
 
