@@ -19,12 +19,18 @@
 <p align="left"> <a href="https://www.github.com/tunratornpha-ops" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.facebook.com/TunratornPharachat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
 
 
-### Preview My Project 🎨 : 
+### Preview My Project Figma 🎨 : 
 https://www.figma.com/design/2b1znfs8AWpOvBXH7TGvpj/SA-project?node-id=0-1&t=bkfCZvD0mfZJtkyA-1
 
 
 ### Preview Prototype Project :
 
+<p align="center">
+  <img src="SA Project img/Menu.png" align="Left" width=400"/>
+  <img src="SA Project img/Hospital.png" align="Left" width=400"/>
+</p>
+
+### Preview My Project Web design 🖥️ :
 <p align="center">
   <img src="SA Project img/Menu.png" align="Left" width=400"/>
   <img src="SA Project img/Hospital.png" align="Left" width=400"/>
