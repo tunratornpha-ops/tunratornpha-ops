@@ -22,17 +22,18 @@
 ### Preview My Project Figma 🎨 : 
 https://www.figma.com/design/2b1znfs8AWpOvBXH7TGvpj/SA-project?node-id=0-1&t=bkfCZvD0mfZJtkyA-1
 
-
+<p>
+ 
 ### Preview Prototype Project :
-
-<p align="center">
-  <img src="SA Project img/Menu.png" align="Left" width=400"/>
-  <img src="SA Project img/Hospital.png" align="Left" width=400"/>
+  <p align="center">
+   <img src="SA Project img/Menu.png"  width=400"/>
+   <img src="SA Project img/Hospital.png" width=400"/>
+ </p>
 </p>
 
 ### Preview My Project Web design 🖥️ :
 <p align="center">
-  <img src="SA Project img/Menu.png" align="Left" width=400"/>
-  <img src="SA Project img/Hospital.png" align="Left" width=400"/>
+  <img src="SA Project img/Menu.png" width=400"/>
+  <img src="SA Project img/Hospital.png" width=400"/>
 </p>
 
